@@ -1,0 +1,36 @@
+* {
+    padding: none;
+}
+
+body {
+    background-color: rgb(95, 58, 131);
+}
+
+header {
+    text-align: center;
+    color: white;
+    font-size: 25pt;
+    padding: 15pt;
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.788);
+}
+
+section {
+    background-color: whitesmoke;
+    margin: auto;
+    width: 80%;
+    align-content: center;
+    padding: 12pt;
+    border-radius: 10pt;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.507);
+}
+
+footer {
+    text-align: center;
+    color: white;
+    padding: 8pt;
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.788);
+}
+
+div#data {
+    padding-bottom: 20pt;
+}
